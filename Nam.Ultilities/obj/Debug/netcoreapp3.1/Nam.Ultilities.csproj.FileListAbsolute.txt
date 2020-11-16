@@ -1,0 +1,9 @@
+D:\DemoProject\MyProject\Nam.Ultilities\bin\Debug\netcoreapp3.1\Nam.Ultilities.deps.json
+D:\DemoProject\MyProject\Nam.Ultilities\bin\Debug\netcoreapp3.1\Nam.Ultilities.dll
+D:\DemoProject\MyProject\Nam.Ultilities\obj\Debug\netcoreapp3.1\Nam.Ultilities.csprojAssemblyReference.cache
+D:\DemoProject\MyProject\Nam.Ultilities\obj\Debug\netcoreapp3.1\Nam.Ultilities.AssemblyInfoInputs.cache
+D:\DemoProject\MyProject\Nam.Ultilities\obj\Debug\netcoreapp3.1\Nam.Ultilities.AssemblyInfo.cs
+D:\DemoProject\MyProject\Nam.Ultilities\bin\Debug\netcoreapp3.1\Nam.Ultilities.pdb
+D:\DemoProject\MyProject\Nam.Ultilities\obj\Debug\netcoreapp3.1\Nam.Ultilities.csproj.CoreCompileInputs.cache
+D:\DemoProject\MyProject\Nam.Ultilities\obj\Debug\netcoreapp3.1\Nam.Ultilities.dll
+D:\DemoProject\MyProject\Nam.Ultilities\obj\Debug\netcoreapp3.1\Nam.Ultilities.pdb

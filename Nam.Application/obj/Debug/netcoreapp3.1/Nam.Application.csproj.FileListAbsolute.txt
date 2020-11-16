@@ -1,0 +1,16 @@
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Application.deps.json
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Application.dll
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.csprojAssemblyReference.cache
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.AssemblyInfoInputs.cache
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.AssemblyInfo.cs
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Application.pdb
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Core.dll
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.EFCore.dll
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Ultilities.dll
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Core.pdb
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.Ultilities.pdb
+D:\DemoProject\MyProject\Nam.Application\bin\Debug\netcoreapp3.1\Nam.EFCore.pdb
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.csproj.CopyComplete
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.dll
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.pdb
+D:\DemoProject\MyProject\Nam.Application\obj\Debug\netcoreapp3.1\Nam.Application.csproj.CoreCompileInputs.cache

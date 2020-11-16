@@ -1,0 +1,17 @@
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.EFCore.deps.json
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.EFCore.dll
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.AssemblyInfoInputs.cache
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.AssemblyInfo.cs
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.csprojAssemblyReference.cache
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.EFCore.runtimeconfig.json
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.EFCore.runtimeconfig.dev.json
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.genruntimeconfig.cache
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.EFCore.pdb
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.csproj.CoreCompileInputs.cache
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.dll
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.pdb
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.Core.dll
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.Core.pdb
+D:\DemoProject\MyProject\Nam.EFCore\obj\Debug\netcoreapp3.1\Nam.EFCore.csproj.CopyComplete
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.Ultilities.dll
+D:\DemoProject\MyProject\Nam.EFCore\bin\Debug\netcoreapp3.1\Nam.Ultilities.pdb
